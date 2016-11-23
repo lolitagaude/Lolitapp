@@ -1,0 +1,61 @@
+table {
+border: none;
+border-collapse: collapse;
+width: 90%;
+margin: auto;
+}
+#contenu {
+margin: auto; 
+margin-top: 50vh;
+transform: translateY(-50%);
+}
+#new {
+	font-family: sans-serif;
+	position: right;
+}
+thead, tfoot {
+background-color:white ;
+border:1px solid white;
+}
+tbody {
+background-color: white;
+border:1px solid #35bb9c;
+}
+th {
+font-family: sans-serif;
+border:1px dotted #35bb9c;
+padding:5px;
+background-color:white;
+width:25%;
+color:#35bb9c;
+}
+td {
+font-family:sans-serif;
+font-size:80%;
+border:1px solid #35bb9c;
+padding:5px;
+text-align:left;
+color:grey;
+}
+caption {
+font-family:sans-serif;
+}
+
+body {
+background-color: #35bb9c ;
+}
+
+h1 {
+	font-family: "Thinking of Betty";
+	text-align: center;
+	color:white;
+	size :20%;
+}
+
+.field{
+	color:white;
+}
+
+.container{
+color:white;
+}
